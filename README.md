@@ -25,6 +25,18 @@
 | `E` | Interact: walk onto another wall, open a door, pick up items |
 | `Esc` | Pause |
 
+| Xbox | PlayStation | Action |
+|---|---|---|
+| Left stick | Left stick | Move |
+| Right stick | Right stick | Look / aim |
+| `RT` | `R2` | Shoot (when the pistol is equipped) |
+| `LT` (hold) — or `LB` | `L2` (hold) — or `L1` | Aim down sights (zoom, pistol only) |
+| `Y` — or d-pad ↑ / ↓ | `△` — or d-pad ↑ / ↓ | Switch between pistol and flashlight |
+| `RB` — or d-pad ← / → | `R1` — or d-pad ← / → | Cycle ammo type |
+| `X` | `□` | Reload |
+| `A` | `✕` | Interact: walk onto another wall, open a door, pick up items |
+| `Menu` or `View` | `Options` or `Share` | Pause (press again, or `A` / `✕`, to resume) |
+
 </div>
 
 <div align="center">
