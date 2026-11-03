@@ -1,6 +1,6 @@
 <div align="center">
 
-# [Enter into the nightmAIre](https://r0mb0.github.io/Enter_into_the_nightm.ai.re/)
+# [Enter the nightmAIre](https://r0mb0.github.io/Enter_the_nightm.ai.re/)
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/12266b5c885a4720a32b407f43808760)](https://app.codacy.com/gh/R0mb0/Enter_into_the_nightm.ai.re/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![pages-build-deployment](https://github.com/R0mb0/Enter_into_the_nightm.ai.re/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/R0mb0/Enter_into_the_nightm.ai.re/actions/workflows/pages/pages-build-deployment)
