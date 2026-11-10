@@ -11,31 +11,51 @@
 
 
 
-## Gameplay
+# Gameplay
 
 | Input | Action |
 |---|---|
 | `W` `A` `S` `D` | Move |
+| `Shift` (hold) | Run (while your breath lasts) |
 | Mouse | Look / aim |
 | Left click | Shoot (when the pistol is equipped) |
 | Right click (hold) | Aim down sights (zoom, pistol only) |
 | Mouse wheel | Switch between pistol and flashlight |
 | `Q` | Cycle ammo type (normal → incendiary → piercing) |
 | `R` | Reload |
+| `Space` | Jump (how high depends on the room's gravity) |
 | `E` | Interact: walk onto another wall, open a door, pick up items |
 | `Esc` | Pause |
+
+# With a controller
 
 | Xbox | PlayStation | Action |
 |---|---|---|
 | Left stick | Left stick | Move |
+| Click the left stick (`L3`) | Click the left stick (`L3`) | Run (switches off when you stop or run out of breath) |
 | Right stick | Right stick | Look / aim |
 | `RT` | `R2` | Shoot (when the pistol is equipped) |
 | `LT` (hold) — or `LB` | `L2` (hold) — or `L1` | Aim down sights (zoom, pistol only) |
 | `Y` — or d-pad ↑ / ↓ | `△` — or d-pad ↑ / ↓ | Switch between pistol and flashlight |
 | `RB` — or d-pad ← / → | `R1` — or d-pad ← / → | Cycle ammo type |
-| `X` | `□` | Reload |
-| `A` | `✕` | Interact: walk onto another wall, open a door, pick up items |
+| `A` | `✕` | Jump |
+| `X` | `□` | Interact: walk onto another wall, open a door, pick up items |
+| `B` | `○` | Reload |
 | `Menu` or `View` | `Options` or `Share` | Pause (press again, or `A` / `✕`, to resume) |
+
+# On a phone or a tablet
+
+| Where | What | Action |
+|---|---|---|
+| Left half of the screen | A stick appears under your thumb | Move. Push it all the way forwards to run (the ring lights up) |
+| Right half of the screen | Drag | Look around |
+| Big button, bottom right | Crosshair | Shoot (keep the finger down and drag to follow the target) |
+| Left of it | Double arrow | Jump |
+| Above-left of it | Scope | Aim down sights (tap on, tap off; pistol only) |
+| Above it | Arrow out of a box | Interact: dim until there is something to do, then it pulses |
+| Right edge, small | ⇄ / three bullets / circle arrow | Switch pistol ↔ flashlight / ammo type / reload |
+| Top left | ‖ | Pause (switching app or leaving full screen pauses too) |
+
 
 </div>
 
